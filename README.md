@@ -3088,6 +3088,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Desearch](https://desearch.ai) `https://mcp.desearch.ai/mcp`
   [![Desearch MCP connector](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Desearch-ai/mcp-desearch)
   🔓 - AI search, X search and web search for AI agents; tool discovery is open, search calls need a Desearch API key.
+- [EffectHub](https://effecthub.net) `https://effecthub.net/api/mcp`
+  [![EffectHub MCP connector](https://glama.ai/mcp/connectors/net.effecthub/catalog/badges/score.svg)](https://glama.ai/mcp/connectors/net.effecthub/catalog)
+  🔓 - Search, compare and find alternatives among 3,000+ AI tools, with pricing, liveness and Effect and Trust scores.
 - [EveryInfra](https://everyinfra.com/en) `https://api.everyinfra.com/mcp`
   [![EveryInfra MCP connector](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.xiaoxihexiaoyu/everyinfra)
   🔓 - Structured data from 90 platforms, incl. RedNote, Douyin, TikTok and Amazon, plus web search; API key for tool calls.
